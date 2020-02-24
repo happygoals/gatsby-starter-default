@@ -1,18 +1,21 @@
-- title: Gatsby-Minimal-Portfolio
-  image: https://maedahbatool.com/wp-content/uploads/2017/08/The-new-bluehost.jpg
-  link: /projects
-- title: Your-Project-Name
-  image: https://images7.alphacoders.com/679/thumb-1920-679140.png
-  link: /projects
-- title: Dreamy-Keanu-Gallery
-  image: https://redwerk.com/wp-content/uploads/2019/10/f-image.png
-  link: /projects
-- title: Gatsby-Dynamic-Pages
-  image: http://getwallpapers.com/wallpaper/full/0/0/b/14916.jpg
-  link: /projects
-- title: Qr-Code-Application
-  image: https://redwerk.com/wp-content/uploads/2019/10/f-image.png 
-  link: /projects
-- title: Gatsy-Memeto_Blogpost
-  image: https://miro.medium.com/max/4200/1*TsNtjHqx2k8wIwkHuMRpww.jpeg
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Digital Harvest
+  image: https://raw.githubusercontent.com/happygoals/happygoals.github.io/master/images/pic01.jpg
+  link: https://github.com/mfwlr/DigitalHarvestTutorial
+- title: Indoor Navigation
+  image: https://raw.githubusercontent.com/happygoals/happygoals.github.io/master/images/pic02.jpg
+  link: https://github.com/happygoals/Team7_PFW_Capstone
+- title: Snackfacts
+  image: https://raw.githubusercontent.com/happygoals/happygoals.github.io/master/images/pic04.jpg
+  link: https://github.com/happygoals/web_app_dev_fall2018
+- title: Cat Back Home
+  image: https://raw.githubusercontent.com/happygoals/happygoals.github.io/master/images/pic07.jpg
+  link: https://www.youtube.com/watch?v=DBUaVWYqFHM&feature=youtu.be
+- title: Let Me Off
+  image: https://raw.githubusercontent.com/happygoals/happygoals.github.io/master/images/pic06.jpg
+  link: https://devpost.com/software/letmeoff-fhyj4w
+- title: Run on the Bass
+  image: https://raw.githubusercontent.com/happygoals/happygoals.github.io/master/images/pic08.jpg
+  link: https://www.youtube.com/watch?v=RtuqlmzrMhc&feature=youtu.be
+- title: Environmental Resources Center
+  image: https://raw.githubusercontent.com/happygoals/happygoals.github.io/master/images/pic03.jpg
+  link: http://erc.pfw.edu

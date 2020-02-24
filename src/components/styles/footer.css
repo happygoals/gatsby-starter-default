@@ -12,3 +12,11 @@
     bottom: 0;
     /* position: fixed; */
 }
+
+a{
+    color: powderblue;
+}
+
+a:hover{
+    color: rgb(230, 217, 176);
+}

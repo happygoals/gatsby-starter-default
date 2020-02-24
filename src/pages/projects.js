@@ -9,7 +9,7 @@ export default function projects({data}) {
     const projectList = data.allProjectsYaml.edges
     return (
       <div>
-      <AniLink cover to="/" bg="#663399" direction="right">
+      <AniLink cover to="/" bg="#64ceff" direction="right">
       <b className="gohome">  🏠</b>
     </AniLink>
         <div className="container">

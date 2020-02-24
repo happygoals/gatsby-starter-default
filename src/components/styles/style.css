@@ -26,21 +26,22 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: #0a192f;
+  background-color: #0a142f;
 }
+
 .intro1 {
-  margin-top: 8vw;
+  margin-top: 4vw;
   margin-left: 8.5%;
   margin-bottom: 2.5vw;
-  color: #64ffda;
+  color: #64ceff;
   font-size: 2.5vmax;
   transition-delay: 100ms;
   font-family: "PT Mono", monospace;
 }
 
 h2 {
-  color: #ccd6f6;
-  font-size: 8.5vw;
+  color: #649aff;
+  font-size: 7.5vw;
   margin-left: 8.5%;
   margin-top: 0;
   font-weight: 9000;
@@ -48,6 +49,7 @@ h2 {
   /* font-family: 'Source Code Pro', monospace; */
   /* font-family: 'Source Sans Pro', sans-serif; */
   font-family: "Nunito", sans-serif;
+  font-size: 7vw;
   margin-bottom: 14px;
 }
 h3 {
@@ -56,7 +58,7 @@ h3 {
   font-family: "Nunito", sans-serif;
   color: #8892b0;
   line-height:1.3;
-  font-size: 7vw;
+  font-size: 5vw;
   margin-bottom: 15px;
 }
 .para {
@@ -65,7 +67,7 @@ h3 {
     BlinkMacSystemFont, Roboto, "Helvetica Neue", "Segoe UI", Arial, sans-serif;
     color: #8892b0;
     margin-left: 8.5%;
-    font-size: 2.5vmax;
+    font-size: 2vmax;
 }
 /* header style */
 .topnav {
@@ -76,18 +78,20 @@ h3 {
  .topnav a {
   float: right;
   font-family: "Source Code Pro", sans-serif;
-  color: rgb(97, 235, 97);
+  color: rgb(235, 210, 97);
   text-align: center;
   display: flex;
   /* justify-content:sp; */
   padding: 15px 10px;
   text-decoration: none;
   font-size: 18px;
+  margin-top: 1.5vw;
 }
+
 .btnlink{
   float: right;
   font-family: "Source Code Pro", sans-serif;
-  color: #64ffda;
+  color: #64ceff;
   text-align: center;
   display: flex;
   /* justify-content:sp; */
@@ -97,8 +101,8 @@ h3 {
 }
 
 /* button css part */
-.button {
-  background-color: #64ffda; /* Green */
+.button1 {
+  background-color: #64ceff; /* SkyBlue */
   border: none;
   border-radius: 8px;
   padding: 0.00001vw 1vw;
@@ -110,9 +114,37 @@ h3 {
   font-family: "Source Code Pro", monospace;
   cursor: pointer;
   background-color: #0a192f; 
-  color: #64ffda; 
+  color: #64ceff; 
   margin-left: 8.5% ;
-  margin-top: 5vw;
+  margin-top: 3vw;
   margin-bottom: 15vw;
-  border: 2px solid #64ffda;
+  border: 2px solid #64ceff;
+}
+
+.button1:hover {
+  border: 2.5px solid rgb(235, 210, 97);
+}
+
+.button2 {
+  background-color: #64ceff; /* SkyBlue */
+  border: none;
+  border-radius: 8px;
+  padding: 0.00001vw 1vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  font-family: "Source Code Pro", monospace;
+  cursor: pointer;
+  background-color: #0a192f; 
+  color: #64ceff; 
+  margin-left: 3.5% ;
+  margin-top: 3vw;
+  margin-bottom: 15vw;
+  border: 2px solid #64ceff;
+}
+
+.button2:hover {
+  border: 2.5px solid rgb(235, 210, 97);
 }

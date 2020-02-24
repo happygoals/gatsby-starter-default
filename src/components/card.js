@@ -8,7 +8,7 @@ export default function card(props) {
         <img class="card--avatar" src={image} />
         <p class="card--title">{title}</p>
         <a class="card--link" href={link}>
-          Visit 🧿
+          Details
         </a>
       </div>
   )
