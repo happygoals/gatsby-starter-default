@@ -9,11 +9,12 @@ export default function header() {
           <a>Projects -></a>
           {/* <a>HireMe</a> */}
         </AniLink>
+     <AniLink>
         <a href="http://happygoals.github.io/takeaways">Notes</a>
+     </AniLink>
+     <AniLink>
         <a href="http://happygoals.github.io/haemin-ryu-devlog">Blogs</a>
-       {/*  <AniLink cover to="http://haeminryu.com/haemin-ryu-devlog" bg="#663399">
-          <a>Projects</a>
-        </AniLink> */}
+     </AniLink>
       </div>
     </div>
   )
