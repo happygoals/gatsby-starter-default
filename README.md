@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://keanu-pattern.netlify.com/">
-    <img alt="Gatsby" src="https://pbs.twimg.com/profile_images/1205097265943072768/asV-hQVO_400x400.jpg" width="60" />
+   
   </a>
 </p>
 <h1 align="center">
