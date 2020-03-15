@@ -9,8 +9,8 @@ export default function header() {
           <a>Projects -></a>
           {/* <a>HireMe</a> */}
         </AniLink>
-        <a href="http://happygoals.github.io/takeaways">Notes</a>
         <a href="http://happygoals.github.io/haemin-ryu-devlog">Blogs</a>
+        <a href="http://happygoals.github.io/takeaways">Notes</a>
       </div>
     </div>
   )
