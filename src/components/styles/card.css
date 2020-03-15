@@ -12,10 +12,6 @@
   padding: 1rem 0;
 }
 
-.container:hover .card--title {
-  top: 90px;
-}
-
 .card {
   display: flex;
   align-items: center;
@@ -38,39 +34,23 @@
 }
 
 .card--title {
-  position: absolute;
-  width: 500px;
-  left: 0;
-  top: 120px;
-  font-weight: 700;
-  font-size: 30px;
-  text-align: center;
-  text-transform: uppercase;
-  color: white;
-  z-index: 1;
-  transition: top .5s ease;
+  color: rgb(255, 255, 255);
+  font-weight: 200;
+  text-transform: capitalize;
+  font-size: 1rem;
+  font-family: "Nunito", sans-serif;
   /* margin-top: 0.5rem; */
 }
 
-.card--link{
-  position: absolute;
-  width: 500px;
-  left:0;
-  top: 180px;
-  text-align: center;
-  opacity: 0;
-  transition: opacity .35s ease; 
+.card--link {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  padding: 0.3rem 1rem;
+  font-family: "Nunito", sans-serif;
+  border-radius: 8px;
+  background-color: #001f47;
+  border: 1px solid  rgb(255, 255, 255);
 }
-
-.card--link a{
-  width: 200px;
-  padding: 12px 48px;
-  text-align: center;
-  color: white;
-  border: solid 2px white;
-  z-index: 1;
-}
-
 .card--link:hover{
   border: 2px solid  rgb(255, 197, 6);
 }
@@ -81,7 +61,6 @@ b{
   margin: 0 auto;
   margin-top: 1%;
 }
-
 .gohome{
   align-items: center;
   display: flex;
