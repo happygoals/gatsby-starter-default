@@ -12,7 +12,7 @@ const IndexPage = () => (
     <SEO title="HaeminRyu" />
     <p className="intro1">Hello there! I'm</p>
     <h2 className="introname">Haemin Ryu,</h2>
-    <h3a software engineer based in Fort Wayne, IN, USA <br />
+    <h3>a software engineer based in Fort Wayne, IN, USA <br />
     Also know as a problem solver, design thinker, experience giver.</h3>
     <p className="para">I build seeing-beyond changes so that <br /> humans experience better.</p>
     <div className="btnrow">
