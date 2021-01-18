@@ -17,7 +17,7 @@ const IndexPage = () => (
     <p className="para">I build seeing-beyond changes so that <br /> humans experience better.</p>
     <div className="btnrow">
     <button className="button1"><a className="btnlink" href="mailto:developer.haemin.ryu@gmail.com">Get In Touch</a></button>
-    <button className="button2" ><a className="btnlink" href="#">&nbsp;Resume&nbsp;</a></button>
+    <button className="button2" ><a className="btnlink" href="https://drive.google.com/file/d/1diQA5NiLMvcWYZupx688tQm-uLhxuxhD">&nbsp;Resume&nbsp;</a></button>
     </div>
     {/* <div style={{ maxWidth: `100px`, marginB `1.45rem` }}>
       <Image />
